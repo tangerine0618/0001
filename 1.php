@@ -1,1 +1,6 @@
-  kasjflak
+<?php 
+
+
+echo phpinfo();
+
+
